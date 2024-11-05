@@ -1,0 +1,21 @@
+
+INSERT INTO TutorialAppSchema.Computer (
+                    Motherboard, 
+                    CPUCores, 
+                    HasWifi, 
+                    HasLTE, 
+                    ReleaseDate, 
+                    Price, 
+                    VideoCard
+                ) VALUES ('ASUS ROG Strix Z490-E Gaming', 8, True, False, '01/01/0001 00:00:00', 3000.00, 'NVIDIA GeForce RTX 3080')
+
+INSERT INTO TutorialAppSchema.Computer (
+                    Motherboard, 
+                    CPUCores, 
+                    HasWifi, 
+                    HasLTE, 
+                    ReleaseDate, 
+                    Price, 
+                    VideoCard
+                ) VALUES ('ASUS ROG Strix Z490-E Gaming', 8, True, False, '01/01/0001 00:00:00', 3000.00, 'NVIDIA GeForce RTX 3080')
+

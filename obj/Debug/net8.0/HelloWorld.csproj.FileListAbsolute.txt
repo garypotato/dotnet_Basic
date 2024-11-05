@@ -75,3 +75,5 @@ E:\IT\NET8\completeCourse\dotnet-course-code\HelloWorld\bin\Debug\net8.0\Microso
 E:\IT\NET8\completeCourse\dotnet-course-code\HelloWorld\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
 E:\IT\NET8\completeCourse\dotnet-course-code\HelloWorld\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
 E:\IT\NET8\completeCourse\dotnet-course-code\HelloWorld\bin\Debug\net8.0\appSettings.json
+E:\IT\NET8\completeCourse\dotnet-course-code\HelloWorld\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\IT\NET8\completeCourse\dotnet-course-code\HelloWorld\bin\Debug\net8.0\AutoMapper.dll
